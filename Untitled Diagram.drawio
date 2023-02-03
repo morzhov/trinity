@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T13:18:47.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QYVmUwi7DsFid86Bi4Fn" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-03T13:18:58.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6w83XH8a4gho8ANVUMda" version="20.8.16" type="github" pages="4">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="SAN">
     <mxGraphModel dx="2577" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -359,7 +359,7 @@
           <mxGeometry x="1850" y="620" width="161" height="15" as="geometry" />
         </mxCell>
         <mxCell id="oKsl3EcDswWhEAN2bmV5-174" value="Кластер Voip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="565" width="140" height="40" as="geometry" />
+          <mxGeometry x="1956" y="560" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u-c6fZ8ro3a70qnBmAO8-171" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.34;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oKsl3EcDswWhEAN2bmV5-173" target="2BS8JYeTeqOyGn4AyfB2-179">
           <mxGeometry relative="1" as="geometry">
