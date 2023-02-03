@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T12:48:17.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pbXBmOjKyG34CQCr0fbF" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-03T12:49:24.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DwvIEvIAAelRdJw18hOZ" version="20.8.16" type="github" pages="4">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="SAN">
     <mxGraphModel dx="2577" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -780,11 +780,11 @@
         <mxCell id="e1UOdNacLV4YX3iV7KGH-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.physical_switch;" vertex="1" parent="1">
           <mxGeometry x="520" y="121" width="159.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6hGuLWtXCS-OevJdh-_j-2" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="253" y="440" width="161" height="15" as="geometry" />
+        <mxCell id="6hGuLWtXCS-OevJdh-_j-2" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="161" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="6hGuLWtXCS-OevJdh-_j-3" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="253" y="420" width="161" height="15" as="geometry" />
+        <mxCell id="6hGuLWtXCS-OevJdh-_j-3" value="" style="shape=mxgraph.rack.ibm.ibm_1754_local_console_manager;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="161" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
