@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T07:17:51.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lzvwk8n1YQf7XtopBx8V" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-06T07:23:47.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="J5yO5sEFVpAGq2iaMDuW" version="20.8.16" type="github" pages="4">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="SAN">
     <mxGraphModel dx="2577" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           <mxGeometry x="-90" y="994" width="56" height="46" as="geometry" />
         </mxCell>
         <mxCell id="30fCOcxRf9-i1ujDUc_0-211" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_running;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="192" y="994" width="56" height="46" as="geometry" />
+          <mxGeometry x="170" y="1014" width="56" height="46" as="geometry" />
         </mxCell>
         <mxCell id="30fCOcxRf9-i1ujDUc_0-212" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_running;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="191" y="1110" width="56" height="46" as="geometry" />
@@ -384,6 +384,15 @@
             <mxPoint x="1880.2307692307695" y="660" as="sourcePoint" />
             <mxPoint x="1157.0000000000005" y="582.807881773399" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g7HiKCuxp7vVLNKvjdr5-171" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_running;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="1014" width="56" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="g7HiKCuxp7vVLNKvjdr5-172" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_running;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="363.25" y="1014" width="56" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="g7HiKCuxp7vVLNKvjdr5-173" value="" style="sketch=0;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.vm_running;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="477.25" y="1014" width="56" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -771,8 +780,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QhvpVAiuiwbOdCs7PSHn-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="592" width="320" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="9uBet_gisZ9fKd_35vuJ-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="460" y="181" width="320" height="119" as="geometry" />
+          <mxGeometry x="460" y="181" width="320" height="109" as="geometry" />
         </mxCell>
         <mxCell id="9uBet_gisZ9fKd_35vuJ-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="105.5" width="320" height="63" as="geometry" />
@@ -865,10 +877,10 @@
           <mxGeometry x="481.5" y="255" width="159.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G2MHJ3Kl9R7Ow2k_EIuI-1" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="470" y="515" width="161" height="30" as="geometry" />
+          <mxGeometry x="470" y="597" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G2MHJ3Kl9R7Ow2k_EIuI-2" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="470" y="550" width="161" height="30" as="geometry" />
+          <mxGeometry x="470" y="632" width="161" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-LPNSNOFAt50hSARXY-F-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.storage;" vertex="1" parent="1">
           <mxGeometry x="840" y="39" width="158.5" height="60" as="geometry" />
@@ -898,7 +910,7 @@
           <mxGeometry x="290" y="353" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PbFOPIz-nAbXraRpiAIV-7" value="Кластер БД" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="446" width="60" height="30" as="geometry" />
+          <mxGeometry x="283" y="441" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PbFOPIz-nAbXraRpiAIV-8" value="Кластер Voip" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="517" width="60" height="30" as="geometry" />
@@ -914,6 +926,18 @@
         </mxCell>
         <mxCell id="9uBet_gisZ9fKd_35vuJ-1" value="Коммутаторы&amp;nbsp;&lt;br&gt;FC" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HJoMGYgJjyMw6QbryuA-1" value="Коммутаторы&amp;nbsp;&lt;br&gt;FC" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HJoMGYgJjyMw6QbryuA-2" value="Коммутаторы&amp;nbsp;&lt;br&gt;FC" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="122" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HJoMGYgJjyMw6QbryuA-3" value="Коммутаторы&amp;nbsp;&lt;br&gt;FC" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="203" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhvpVAiuiwbOdCs7PSHn-2" value="ИБП" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="614.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
