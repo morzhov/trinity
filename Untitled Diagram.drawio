@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T08:18:18.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EyfHFnO92oHrH4kCONuE" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-06T08:19:55.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2OI5MhrjSP103aiVwmnx" version="20.8.16" type="github" pages="4">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="SAN">
     <mxGraphModel dx="1544" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -776,13 +776,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M-Ho3rfDjimcPCFn0re6" name="Racks">
-    <mxGraphModel dx="2801" dy="1784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="" id="EOidf3M5MeJ3_wlTqR_d-4">
           <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-            <mxGeometry x="515" y="-84" width="374" height="788" as="geometry" />
+            <mxGeometry x="507" y="-46" width="374" height="788" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="EOidf3M5MeJ3_wlTqR_d-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -1006,6 +1006,14 @@
         </mxCell>
         <mxCell id="S1e3VjSvyS8Uk7lGEJ8c-4" value="Стойка 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="624" y="-30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="" id="jI1mexVcvVcXKWXV-CNT-1">
+          <mxCell style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagRev;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="950" y="-46" width="374" height="788" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="jI1mexVcvVcXKWXV-CNT-2" value="Стойка 4&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-30" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
