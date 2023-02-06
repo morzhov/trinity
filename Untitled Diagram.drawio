@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T09:26:39.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6GgDzOEZFOmCBB5bXKPC" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-06T09:27:50.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="mBVf7ggvtT2clswRNcaC" version="20.8.16" type="github" pages="4">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="SAN">
     <mxGraphModel dx="1544" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -907,8 +907,17 @@
         <mxCell id="UHzKjZQ2YfoTftB6WCpT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="900" width="770" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UHzKjZQ2YfoTftB6WCpT-10" value="Свитч управления" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="860" width="130" height="30" as="geometry" />
+        <mxCell id="UHzKjZQ2YfoTftB6WCpT-10" value="Свитч управления (IPMI)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="860" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UHzKjZQ2YfoTftB6WCpT-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50.629999999999995" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UHzKjZQ2YfoTftB6WCpT-15" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.rj45_sfp;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="71.63" y="930" width="32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UHzKjZQ2YfoTftB6WCpT-16" value="IPMI" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110.63" y="930" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
